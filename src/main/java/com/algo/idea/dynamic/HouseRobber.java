@@ -11,6 +11,6 @@ public class HouseRobber {
     }
 
     public static int houseRobber(){
-
+        System.out.println("1");
     }
 }
